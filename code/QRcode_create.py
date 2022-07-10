@@ -1,6 +1,6 @@
 import qrcode as qr
 
-name = 'hi, why did you scan this'
+name = '' # text in qr code
 
 code = qr.make(name)
-code.save("D:\\important shit\\Python shit\\QRcode gaming\\codes\\" + name + ".png")
+code.save("(directory)" + name + ".png")
