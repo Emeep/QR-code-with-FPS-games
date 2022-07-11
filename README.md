@@ -3,7 +3,8 @@
 (made for my youtube channel)
 https://www.youtube.com/channel/UCGHbPdW3y-rl9YZP9tUFQpg
 
-(video on this soon it's just taking long rn)
+(video on this)
+https://youtu.be/TDtik2c41Ao
 
 play FPS games with QR codes
 
